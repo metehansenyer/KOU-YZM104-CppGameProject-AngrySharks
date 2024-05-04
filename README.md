@@ -4,11 +4,11 @@ Kocaeli Üniversitesi Mühendislik Fakültesi Yazılım Mühendisliği 23-24 Pro
 
 # İçerik
 
-- [Kullanılan Araçlar](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngryShark#kullanılan-araçlar)
-- [Çalıştırma](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngryShark#çalıştırma)
-- [Öz Değerlendirme](https://github.com/metehansenyer/Discord-Uptime-Bot#öz-değerlendirme)
-- [İçimde Kalanlar](https://github.com/metehansenyer/Discord-Uptime-Bot#içimde-kalanlar)
-- [Teşekkürler](https://github.com/metehansenyer/Discord-Uptime-Bot#teşekkürler)
+- [Kullanılan Araçlar](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks/tree/main?tab=readme-ov-file#kullanılan-araçlar)
+- [Çalıştırma](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks/tree/main?tab=readme-ov-file#çalıştırma)
+- [Öz Değerlendirme](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks/tree/main?tab=readme-ov-file#öz-değerlendirme)
+- [İçimde Kalanlar](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks/tree/main?tab=readme-ov-file#içimde-kalanlar)
+- [Teşekkürler](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks/tree/main?tab=readme-ov-file#teşekkürler)
 
 ## Kullanılan Araçlar
 
